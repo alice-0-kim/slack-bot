@@ -3,7 +3,6 @@
 
 🙌 Originally remixed from [https://glitch.com/edit/#!/greet-bot](https://glitch.com/edit/#!/greet-bot) 🙌
 
-![alt text][logo]
 ![alt text][demo]
 ![alt text][profile]
 
